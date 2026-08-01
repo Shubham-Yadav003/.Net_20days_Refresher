@@ -1,0 +1,14 @@
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.AssemblyInfo.cs
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\Cg_prec\coding_ques\bin\Debug\net10.0\coding_ques.exe
+C:\Users\90262\Desktop\Cg_prec\coding_ques\bin\Debug\net10.0\coding_ques.deps.json
+C:\Users\90262\Desktop\Cg_prec\coding_ques\bin\Debug\net10.0\coding_ques.runtimeconfig.json
+C:\Users\90262\Desktop\Cg_prec\coding_ques\bin\Debug\net10.0\coding_ques.dll
+C:\Users\90262\Desktop\Cg_prec\coding_ques\bin\Debug\net10.0\coding_ques.pdb
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.dll
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\refint\coding_ques.dll
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.pdb
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\coding_ques.genruntimeconfig.cache
+C:\Users\90262\Desktop\Cg_prec\coding_ques\obj\Debug\net10.0\ref\coding_ques.dll
