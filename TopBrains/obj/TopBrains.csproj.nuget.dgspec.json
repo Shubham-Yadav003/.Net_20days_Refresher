@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90262\\Desktop\\Cg_prec\\topbrains\\TopBrains.csproj": {}
+    "C:\\Users\\90262\\Desktop\\Cg_prec\\TopBrains\\TopBrains.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90262\\Desktop\\Cg_prec\\topbrains\\TopBrains.csproj": {
+    "C:\\Users\\90262\\Desktop\\Cg_prec\\TopBrains\\TopBrains.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90262\\Desktop\\Cg_prec\\topbrains\\TopBrains.csproj",
+        "projectUniqueName": "C:\\Users\\90262\\Desktop\\Cg_prec\\TopBrains\\TopBrains.csproj",
         "projectName": "TopBrains",
-        "projectPath": "C:\\Users\\90262\\Desktop\\Cg_prec\\topbrains\\TopBrains.csproj",
+        "projectPath": "C:\\Users\\90262\\Desktop\\Cg_prec\\TopBrains\\TopBrains.csproj",
         "packagesPath": "C:\\Users\\90262\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90262\\Desktop\\Cg_prec\\topbrains\\obj\\",
+        "outputPath": "C:\\Users\\90262\\Desktop\\Cg_prec\\TopBrains\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
