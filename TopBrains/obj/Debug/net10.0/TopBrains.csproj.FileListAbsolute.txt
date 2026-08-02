@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\Cg_prec\topbrains\bin\Debug\net10.0\TopBrains.exe
+C:\Users\90262\Desktop\Cg_prec\topbrains\bin\Debug\net10.0\TopBrains.deps.json
+C:\Users\90262\Desktop\Cg_prec\topbrains\bin\Debug\net10.0\TopBrains.runtimeconfig.json
+C:\Users\90262\Desktop\Cg_prec\topbrains\bin\Debug\net10.0\TopBrains.dll
+C:\Users\90262\Desktop\Cg_prec\topbrains\bin\Debug\net10.0\TopBrains.pdb
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.AssemblyInfo.cs
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.sourcelink.json
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.dll
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\refint\TopBrains.dll
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.pdb
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\TopBrains.genruntimeconfig.cache
+C:\Users\90262\Desktop\Cg_prec\topbrains\obj\Debug\net10.0\ref\TopBrains.dll
