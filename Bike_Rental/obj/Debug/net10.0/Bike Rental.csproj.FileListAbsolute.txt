@@ -1,0 +1,15 @@
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\bin\Debug\net10.0\Bike Rental.exe
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\bin\Debug\net10.0\Bike Rental.deps.json
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\bin\Debug\net10.0\Bike Rental.runtimeconfig.json
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\bin\Debug\net10.0\Bike Rental.dll
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\bin\Debug\net10.0\Bike Rental.pdb
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.AssemblyInfoInputs.cache
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.AssemblyInfo.cs
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.csproj.CoreCompileInputs.cache
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.sourcelink.json
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.dll
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\refint\Bike Rental.dll
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.pdb
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\Bike Rental.genruntimeconfig.cache
+C:\Users\90262\Desktop\Cg_prec\Bike_Rental\obj\Debug\net10.0\ref\Bike Rental.dll
